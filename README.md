@@ -1,4 +1,6 @@
-![Gajanan Brass Products Logo](/assets/logo.jpg)
+<p align="center">
+  <img width="460" height="300" src="/assets/logo.jpg">
+</p>
 
 # Created a Company Website - Gajanan Brass Products Pvt Ltd - https://gajananbrassproduct.com
 
