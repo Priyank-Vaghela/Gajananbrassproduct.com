@@ -1,13 +1,14 @@
 <p align="center">
-  <img width="460" height="300" src="/assets/logo.jpg">
+  <img width="200" height="200" src="/assets/logo.jpg">
 </p>
 
-# Created a Company Website - Gajanan Brass Products Pvt Ltd - https://gajananbrassproduct.com
+# Created a Company Website - Gajanan Brass Products Pvt Ltd 
+# :link: https://gajananbrassproduct.com
 
 # Features
-- Instant Google Translate
-- Super Responsive
-- User friendly
+- [x] Super Responsive
+- [x] Instant Google Translate
+- [x] User friendly
 
 # Gallery
 
