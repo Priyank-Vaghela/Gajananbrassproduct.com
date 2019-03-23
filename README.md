@@ -19,4 +19,4 @@
 ## :iphone: Mobile View
 ![Website Vertical View](/assets/serve.png)
 
-## [By Priyank Vaghela](https://priyankvaghela.github.io)
+## [By Priyank Vaghela](https://priyankvaghela.github.io) :bowtie:
